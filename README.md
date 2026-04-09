@@ -1,30 +1,25 @@
-# Mi-presento
-# Ciao, sono Francesco 👋
+@# Ciao, sono Francesco 👋
 
-Un ragazzo con esperienza consolidata nella gestione di progetti complessi e infrastrutture scalabili. Attualmente sto completando la **Laurea Magistrale**, specializzandomi in sistemi distribuiti e architetture cloud ad alte prestazioni.
+Sono un ragazzo con esperienza  nella gestione di progetti complessi e infrastrutture scalabili. Attualmente sto completando la **Laurea Magistrale**, specializzandomi in sistemi distribuiti e architetture cloud ad alte prestazioni.
 
----
+## 🚀 Su di me
 
-### 🚀 Su di me
-- 🔭 **Focus Attuale:** Sistemi distribuiti, Cloud Computing e Continuità Operativa e Scalabilità dei main frame.
+- 🔭 **Focus Attuale:** Sistemi distribuiti, Cloud Computing, Continuità Operativa e Scalabilità dei Mainframe.
 - ⚙️ **Expertise:** Progettazione di infrastrutture per il trasferimento massivo di dati e architetture client-server.
-- 🎓 **In corso:** Laurea Magistrale, curriculum Architetture Distribuite.
+- 🎓 **In corso:** Laurea Magistrale, curriculum Architetture Distribuite (DMI - UNICT).
 - 💬 **Interessi:** Open Source, automazione infrastrutturale e sistemi affidabili.
 
----
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 | Area | Tecnologie |
 | :--- | :--- |
-| **Backend & Frameworks** | Java, PHP (Laravel), Servlet, Data Streaming, SpringBoot|
-| **Data & Messaging** | Apache Kafka, Spark, Kibana , PostgreSQL, Data Integration Pipeline |
+| **Backend & Frameworks** | Java, SpringBoot, PHP (Laravel), Servlet, Data Streaming |
+| **Data & Messaging** | Apache Kafka, Spark, Kibana, PostgreSQL, SQL |
 | **Cloud & DevOps** | AWS, Docker, Cloud Architectures, Systems Integration |
 | **OS & Tools** | Linux (Expert), Windows Server, Git |
 | **Web Basics** | HTML, JavaScript |
 
----
+## 📫 Contatti
 
-### 📫 Contatti
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/francesco-portoghese-3632a93b6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.portoghese@hotmail.com)
+- **LinkedIn:** linkedin.com/in/francesco-portoghese-3632a93b6
+- **Email:** f.potoghese@hotmail.com
