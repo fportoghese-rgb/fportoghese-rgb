@@ -1,4 +1,4 @@
-@# Ciao, sono Francesco 👋
+# Ciao, sono Francesco 👋
 
 Sono un ragazzo con esperienza  nella gestione di progetti complessi e infrastrutture scalabili. Attualmente sto completando la **Laurea Magistrale**, specializzandomi in sistemi distribuiti e architetture cloud ad alte prestazioni.
 
