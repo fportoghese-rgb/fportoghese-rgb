@@ -13,7 +13,7 @@ Sono un ragazzo con esperienza  nella gestione di progetti complessi e infrastru
 
 | Area | Tecnologie |
 | :--- | :--- |
-| **Backend & Frameworks** | Java, SpringBoot, PHP (Laravel), Servlet, Data Streaming |
+| **Backend & Frameworks** | Java, PHP (Laravel), Servlet,SpringBoot,Laravel, Data Streaming |
 | **Data & Messaging** | Apache Kafka, Spark, Kibana, PostgreSQL, SQL |
 | **Cloud & DevOps** | AWS, Docker, Cloud Architectures, Systems Integration |
 | **OS & Tools** | Linux (Expert), Windows Server, Git |
